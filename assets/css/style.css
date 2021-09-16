@@ -533,7 +533,7 @@ ol ul {
 }
 
 .rn-section-gap {
-  padding: 100px 0;
+  padding: 40px 0;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .rn-section-gap {
@@ -12150,7 +12150,7 @@ body.template-color-1 {
 a.rn-btn,
 button.rn-btn {
   display: inline-block;
-  padding: 15px 35px;
+  padding: 25px 50px;
   list-style: none;
   text-decoration: none;
   color: var(--color-primary);
@@ -14491,7 +14491,7 @@ div#featured-project-carousel {
   }
 }
 .rn-nav-list .nav-item {
-  flex-basis: 25%;
+  flex-basis: 33%;
   text-align: center;
   margin-top: 0;
 }
@@ -14585,7 +14585,7 @@ div#featured-project-carousel {
 }
 .personal-experience-inner .experience-list {
   padding-left: 31px;
-  border-left: 5px solid #17191c;
+  /* border-left: 5px solid #17191c; */
 }
 @media only screen and (max-width: 767px) {
   .personal-experience-inner .experience-list {
@@ -14641,6 +14641,19 @@ div#featured-project-carousel {
   z-index: -1;
 }
 .personal-experience-inner .experience-list .resume-single-list .inner::after {
+  position: absolute;
+  content: "";
+  width: 20px;
+  height: 20px;
+  border: 5px solid #17191c;
+  border-radius: 100%;
+  right: 104%;
+  top: 55px;
+  transform: translateY(-7px);
+  background: #222529;
+  transition: var(--transition);
+}
+.personal-experience-inner .experience-list .resume-single-list .custom--wizard::after {
   position: absolute;
   content: "";
   width: 20px;
@@ -15563,13 +15576,13 @@ div#featured-project-carousel {
   color: var(--color-light);
   height: 90px;
   border-radius: 10px;
-  padding: 15px 20px;
+  padding: 15px 50px;
   width: 100%;
   display: flex;
   margin: 0;
   align-items: center;
   transition: 0.3s;
-  justify-content: center;
+  justify-content: start;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .tab-navigation-button .nav-item .nav-link {
@@ -15633,10 +15646,10 @@ div#featured-project-carousel {
     Client Single Card 
 --------------------------------*/
 .client-card {
-  display: flex;
-  flex-wrap: wrap;
+  /* display: flex;
+  flex-wrap: wrap; */
   margin: 0 -15px;
-  margin-top: -30px;
+  margin-top: -10px;
 }
 @media only screen and (max-width: 479px) {
   .client-card {
@@ -15715,7 +15728,7 @@ div#featured-project-carousel {
   z-index: -1;
 }
 .client-card .main-content .client-name {
-  padding: 16px;
+  padding: 10px 25px;
   color: #7c838e;
 }
 .client-card .main-content .client-name a {
@@ -16507,7 +16520,7 @@ div#featured-project-carousel {
 @media only screen and (max-width: 767px) {
   .contact-about-area {
     margin-bottom: 0;
-    padding: 50px 20px;
+    padding: 30px 20px;
     height: auto;
   }
 }
@@ -16718,7 +16731,7 @@ div#featured-project-carousel {
 }
 .contact-form-wrapper .introduce {
   display: flex;
-  justify-content:center;
+  justify-content: center;
 }
 .contact-form-wrapper .introduce input {
   width: 100%;
@@ -19659,7 +19672,7 @@ body.white-version {
   color: var(--color-heading-wv);
 }
 .white-version .rn-resume-area .personal-experience-inner .experience-list {
-  border-left: 5px solid #d9dee2;
+  /* border-left: 5px solid #d9dee2; */
 }
 .white-version
   .rn-resume-area
@@ -19683,6 +19696,15 @@ body.white-version {
   .experience-list
   .resume-single-list
   .inner::after {
+  border: 5px solid #d9dee2;
+  background: #ecf0f3;
+}
+.white-version
+  .rn-resume-area
+  .personal-experience-inner
+  .experience-list
+  .resume-single-list
+  .custom--wizard::after {
   border: 5px solid #d9dee2;
   background: #ecf0f3;
 }
@@ -19787,7 +19809,7 @@ body.white-version {
   .experience-list
   .resume-single-list:hover
   .inner::after {
-  background: var(--color-primary);
+  /* background: var(--color-primary); */
 }
 .white-version
   .rn-resume-area
@@ -20619,8 +20641,13 @@ body.white-version {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  width: 50%;
+  width: 35%;
   margin: 0 auto;
+}
+@media screen and (max-width: 600px) {
+  .Button-Block {
+    width: 100%;
+  }
 }
 .social-media-icons {
   display: grid;
@@ -20628,5 +20655,74 @@ body.white-version {
   align-items: center;
   justify-items: center;
 }
-
+@media screen and (max-width: 600px) {
+  .social-media-icons {
+    grid-template-columns: 1fr;
+    grid-row-gap: 25px;
+  }
+}
+.contact-txt {
+  margin-top: 15px;
+  font-size: 25px;
+  text-align: center;
+  color: var(--color-body-white);
+}
+.Story-card {
+  height: 715px;
+  width: 950px;
+}
+.cardInsidePadding{
+  padding: 30px 20px;
+}
+.donut-logo{
+  width: 70px;
+}
+.text-left{
+  text-align: left;
+}
+.visibleHide{
+  visibility: hidden !important;
+}
+.custom--border{
+  border-left: 5px solid #d9dee2;
+}
+.custom--wizard::after{
+  position: absolute;
+  content: "";
+  width: 20px;
+  height: 20px;
+  border: 5px solid #17191c;
+  border-radius: 100%;
+  right: -7% !important;
+  top: 55px;
+  transform: translateY(-7px);
+  
+  border: 5px solid #d9dee2;
+  background: #ecf0f3;
+  transition: var(--transition);
+  
+}
+.innerCustom::before{
+  position: absolute;
+  content: "";
+  width: 28px;
+  height: 5px;
+  right: -5% !important;
+  top: 63px;
+  transform: translateY(-7px);
+  background: #1b1c1d;
+  z-index: 0;
+}
+.innerNone::after{
+  position: absolute;
+  content: "";
+  visibility: hidden;
+}
+.fs-22{
+  font-size: 22px !important;
+}
+.babyYodaIcon{
+  width: 35px;
+  margin-right: 10px;
+}
 /*# sourceMappingURL=style.css.map */
