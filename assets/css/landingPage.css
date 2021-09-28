@@ -21,7 +21,7 @@ a {
     flex-direction: column;
     width: 100vw;
     height: 100vh;
-    background-color: #30d5c8;
+    background-color: #1ec9bb;;
 }
 .second-slide {
     display: grid;
@@ -30,7 +30,7 @@ a {
     flex-direction: column;
     width: 100vw;
     height: 100vh;
-    background-color: #ff2400;
+    background-color: #d32a1b;
 }
 .third-slide {
     display: grid;
@@ -39,7 +39,7 @@ a {
     flex-direction: column;
     width: 100vw;
     height: 100vh;
-    background-color: #0067f4;
+    background-color: #36454F;
 }
 .fourth-slide {
     display: grid;
@@ -57,7 +57,7 @@ a {
     flex-direction: column;
     width: 100vw;
     height: 100vh;
-    background-color: #ff9b21;
+    background-color: #C21E56;
 }
 .sixth-slide {
     display: grid;
@@ -66,7 +66,7 @@ a {
     flex-direction: column;
     width: 100vw;
     height: 100vh;
-    background-color: #00b8d8;
+    background-color: #ef6357;
 }
 .seventh-slide {
     display: grid;
@@ -93,7 +93,7 @@ a {
     flex-direction: column;
     width: 100vw;
     height: 100vh;
-    background-color: #17c671;
+    background-color: #DE3163;
 }
 .main-title {
     font-size: 50px;
@@ -105,20 +105,21 @@ a {
     font-size: 20px;
     font-family: var(--font-secondary);
     text-align: center;
-    color: rgb(114, 114, 114);
+    color: white;
 }
-.subheading a {
+/* .subheading a {
     text-emphasis: none;
     text-decoration: none;
     color: rgb(114, 114, 114);
-}
+} */
 .gifImage {
     width: 300px;
-    /* height: 300px; */
+    height: 300px;
     overflow: hidden;
-    object-fit: contain;
+    object-fit: cover;
     margin-top: 30px;
     margin-bottom: 15px;
+    border-radius: 5px;
 }
 @media screen and (max-width: 600px) {
     .gifImage {
@@ -261,4 +262,9 @@ a {
     .carousel-indicators {
         bottom: 50px;
     }
+}
+.homepageLink{
+    color: white !important;
+    text-decoration: underline !important;
+
 }
