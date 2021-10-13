@@ -202,7 +202,7 @@
                 <div class="col-lg-12">
                     <div class="section-title text-center" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100" data-aos-once="true">
                         <!-- <span class="subtitle">Features</span> -->
-                        <h2 class="title">What I am Doing ✌🏻 </h2>
+                        <h2 class="title">What am I Doing ✌🏻 </h2>
                     </div>
                 </div>
             </div>
@@ -217,7 +217,7 @@
                             </div>
                             <div class="content">
                                 <h4 class="title"><a href="">Podcast Host</a></h4>
-                                <p class="description">I host Makers Theory Podcast, A place where we talk to founders and innovators across India.</p>
+                                <p class="description">I host Makers Theory Podcast, A place where we talk to founders and innovators across India</p>
                                 <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
                             </div>
                         </div>
@@ -234,7 +234,7 @@
                             </div>
                             <div class="content">
                                 <h4 class="title"><a href="">Project Manager</a></h4>
-                                <p class="description"> I work as a project manager for a Healthcare IT company.</p>
+                                <p class="description">I am a project manager in the healthcare IT industry</p>
                                 <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
                             </div>
                         </div>
@@ -251,7 +251,7 @@
                             </div>
                             <div class="content">
                                 <h4 class="title"><a href="">Newb Writer</a></h4>
-                                <p class="description">I like to write about Product, Finance & Productivity.</p>
+                                <p class="description">I write about Product, Finance and Productivity</p>
                                 <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
                             </div>
                         </div>
@@ -432,17 +432,19 @@
                                         <div class="main-content">
                                             <div class="inner cardInsidePadding Story-card fs-22">
 
-                                                <div class="client-name"><span>🎓 I’m a part of the MBA class of 2023 at McMaster University in Hamilton, ON</span>
+                                                <div class="client-name"><span>🎓 I'm pursuing an MBA (class of 2023) from McMaster
+                                                University in Hamilton, ON, Canada</span>
                                                 </div>
-                                                <div class="client-name"><span>🏨 I’m a Project Manager for a Healthcare IT company based in Dallas, TX.</span>
+                                                <div class="client-name"><span>🏨 I’m a Project Manager for a Healthcare IT company based in Dallas, TX</span>
                                                 </div>
-                                                <div class="client-name"><span>🎙 On my Podcast Show, <a href="https://open.spotify.com/show/0rcTNvgsWvhBMpZYAAQnMx?si=F0aUaiwzTBOBOUGNb33v3w&dl_branch=1" target="_blank">Makers Theory.</a> We talk to founders and innovators to understand their process and lessons they have learned.</a></span>
+                                                <div class="client-name"><span>🎙On my podcast show, <a href="https://open.spotify.com/show/0rcTNvgsWvhBMpZYAAQnMx?si=F0aUaiwzTBOBOUGNb33v3w&dl_branch=1" target="_blank">Makers Theory.</a> We interact with entrepreneurs, founders and innovators about the journey and learnings of their business</a></span>
                                                 </div>
-                                                <div class="client-name"><span>📝 I help students with resume building and applying to study abroad programs. 🍩 (Donut) worry and reach out to me!</span>
+                                                <div class="client-name"><span>📝 I help with resume building for students who wish to
+                                                study internationally. 🍩 (Donut) worry and reach out to me!</span>
                                                 </div>
                                                 <div class="client-name"><span>💸 I have a major interest in Finance and I’m trying to get better at understanding Finance. Here is my <a href="https://twitter.com/noor_lalani/status/1415723012687470596?s=20" target="_blank">Short Summary</a> on Personal Finance courtesy of Stoa School Masterclass with GlideInvest</a></span>
                                                 </div>
-                                                <div class="client-name"><span>💡 I built this website to talk about my areas of interest while helping students to the best of my capabilities. Another reason to build the site is to hold myself accountable for things I want to do but procrastinate and end up leaving my projects midway.</span>
+                                                <div class="client-name"><span>💡 built this website to talk about my areas of interest while helping students to the best of my capabilities. Another reason to build the site is to hold myself accountable for things I want to do but procrastinate and end up leaving my projects midway</span>
                                                 </div>
 
                                             </div>
@@ -463,11 +465,11 @@
 
                                                 <div class="client-name"><span>👨‍🎓 I graduated with BBA in MIS with a concentration in Finance from the University of Houston in 2016</span>
                                                 </div>
-                                                <div class="client-name"><span>🎲 In 2015, I launched an app called StudyTact, a peer-to-peer learning app connecting 400 students across 10 universities in the USA.</span>
+                                                <div class="client-name"><span>🎲  In 2015, I launched an app called StudyTact, a peer-to-peer learning app connecting 400 students across ten universities in the USA</span>
                                                 </div>
-                                                <div class="client-name"><span>👨‍🏫 I have tutored more than 5k students and <a href="https://twitter.com/noor_lalani/status/1399028657612419073?s=20" target="_blank">here</a> is the summary of my experience.</span>
+                                                <div class="client-name"><span>👨‍🏫 I tutored 5000+ students, and <a href="https://twitter.com/noor_lalani/status/1399028657612419073?s=20" target="_blank">here</a> is a summary of my experience</span>
                                                 </div>
-                                                <div class="client-name"><span>⏳ I provided consulting services to entrepreneurs in under-resourced communities and was honored with a certificate from the mayor of Texas for volunteering.</span>
+                                                <div class="client-name"><span>⏳ I provided consulting services to entrepreneurs in under-resourced communities and was honored with a certificate from the mayor of Texas for volunteering</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -485,17 +487,17 @@
                                         <div class="main-content">
                                             <div class="inner cardInsidePadding Story-card fs-22">
 
-                                                <div class="client-name"><span>🌮Let’s taco bout food! I love tacos and my fave taco place is <a href="https://torchystacos.com/" target="_blank">Torchy’s Tacos</a>, try the brushfire tacos and you won’t be disappointed.</span>
+                                                <div class="client-name"><span>🌮 Let’s taco bout food! I love tacos, and my fave taco place is <a href="https://torchystacos.com/" target="_blank">Torchy’s Tacos</a>, try the brushfire tacos, and you won’t be disappointed</span>
                                                 </div>
-                                                <div class="client-name"><span>🍿 I feel storytelling is one of the most important skills and I’m learning to become a better storyteller with the help of <a href="https://www.stoaschool.com/" target="_blank">Stoa School</a></span>
+                                                <div class="client-name"><span>🍿 Storytelling is one of the most critical skills, and I’m learning to become a better storyteller with the help of <a href="https://www.stoaschool.com/" target="_blank">Stoa School</a></span>
                                                 </div>
-                                                <div class="client-name"><span>🎥 During my pastime, I’m watching <a href="https://www.imdb.com/title/tt0386676/" target="_blank">The Office</a> Tv Show and I think this is the best show ever. (Prove me wrong)</span>
+                                                <div class="client-name"><span>🎥 During my pastime, I watch <a href="https://www.imdb.com/title/tt0386676/" target="_blank">The Office TV Show</a> and I think this is the best show ever. (Prove me wrong)</span>
                                                 </div>
                                                 <div class="client-name"><span><img src="./assets/images/babyyoda.png" alt="baby yoda" class="babyYodaIcon"/>I’m a huge Star Wars nerd and always up for a Start Wars marathon (HMU!)</span>
                                                 </div>
                                                 <div class="client-name"><span>✨I have a huge appreciation for Hindi/Urdu Poetry. If you like Hindi poetry then listen to <a href="https://www.youtube.com/c/Unerasepoetry" target="_blank">Unerase Poetry</a> and my fave poet <a href="https://www.youtube.com/channel/UCPh9O59DttbiKQX9VmMXS9g" target="_blank">Yahya Bootwala</a></span>
                                                 </div>
-                                                <div class="client-name"><span>🤦‍♂️ I often make poor jokes and I tired my hands at standup comedy. Check out my routine <a href="https://youtu.be/u48wmknJeVM">here.</a></span>
+                                                <div class="client-name"><span>🤦 I often make poor jokes and I tried my hands at stand-up comedy. Check out my routine <a href="https://youtu.be/u48wmknJeVM">here</a></span>
                                                 </div>
                                             </div>
                                         </div>
@@ -513,19 +515,19 @@
                                         <div class="main-content">
                                             <div class="inner cardInsidePadding Story-card fs-22">
 
-                                                <div class="client-name"><span>🎯 I’m interested in all things product, economies of scale, and startup ecosystem. My goal is to learn and build skills to be a better product manager and keep learning more about new products.</span>
+                                                <div class="client-name"><span>🎯 I’m interested in all things product, economies of scale, and startup ecosystem. My goal is to learn and build skills to be a better product manager and keep learning more about new products</span>
                                                 </div>
                                                 <!-- <div class="client-name"><span><a href="#">📈 I want to get better at capital markets, doing fundamental and technical analyses of companies, and get better at building wealth and equities.</a></span>
                                                 </div> -->
-                                                <div class="client-name"><span>⏰ Einstein said “Compound Interest is the most powerful force in the universe”  Find a way to put some money aside as early as possible and see your money grow like magic in the future! (Also Fixed Deposit is utter BS and please don’t do it)</span>
+                                                <div class="client-name"><span>⏰ Einstein said, “Compound Interest is the most powerful force in the universe” Find a way to put some money aside as early as possible and see your money grow like magic in the future! (Also, Fixed Deposit is utter BS, and please don’t do it)</span>
                                                 </div>
-                                                <div class="client-name"><span>📚 Education is a lifelong process and I want to build learners’ mentality to become a better learner and keep my child-like curiosity alive.</span>
+                                                <div class="client-name"><span>📚 Education is a lifelong process, and I want to build learners’ mentality to become better learners and keep my child-like curiosity alive</span>
                                                 </div>
                                                 <!-- <div class="client-name"><span><a href="#">🧧 I’m exploring my IKIGAI and trying to figure out what I’m meant to be and finding joy in life through purpose and a sense of belonging.</a></span>
                                                 </div> -->
-                                                <div class="client-name"><span>🔭I feel “Only follow your passion” is total BS advice you can get in your 20s/30s. This assumes you will only have one passion and it wouldn’t change over time. I feel just because your a passionate about something doesn’t mean you are good at it and this could build up more stress in our lives.</span>
+                                                <div class="client-name"><span>🔭I feel “Only follow your passion” is total BS advice you can get in your 20s/30s. This assumes you will only have one passion and it wouldn’t change over time. I feel just because your a passionate about something doesn’t mean you are good at it and this could build up more stress in our lives</span>
                                                 </div>
-                                                <div class="client-name"><span>🧩 I think professional and personal life balance is overrated. People underestimate the power of working really hard and I feel if you want to be at the top of your game you should spend most of your time working in your 20s/30s.</span>
+                                                <div class="client-name"><span>🧩 I think professional and personal life balance is overrated. People underestimate the power of working really hard and I feel if you want to be at the top of your game you should spend most of your time working in your 20s/30s</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -811,7 +813,7 @@
                                                         <div class="heading">
                                                             <div class="title">
                                                                 <h4>Financial Markets</h4>
-                                                                <span><a href="https://www.coursera.org/learn/financial-markets-global/home/welcome" class="linkClr">Coursera</a> Online (2019)</span>
+                                                                <span><a href="https://www.coursera.org/learn/financial-markets-global/home/welcome" target="_blank" class="linkClr">Coursera</a> Online (2019)</span>
                                                             </div>
 
                                                         </div>
