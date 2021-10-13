@@ -107,23 +107,25 @@ body {
 .detail-grid{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-column-gap: 50px;
+    grid-gap: 50px;
     margin-bottom: 150px;
 }
 .detail-card{
-    transition: all 0.1s ease;
-}
-.detail-card:hover{
-    transform: scale(1.05);
-}
-.card-image-block{
     
+}
+.detail-card:hover .card-image-block{
+    transform: scale(1.05);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 12px;
 }
 .title-txt{
     font-size: 45px;
     color: #000;
     text-transform: uppercase;
     margin-bottom: 80px;
+}
+.card-image-block{
+    text-align: center;
+    transition: all 0.1s ease;
 }
 .card-title{
     margin: 0;
@@ -132,11 +134,23 @@ body {
     font-family: var(--font-secondary);
     font-weight: 500;
     color: #000;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-bottom: 10px;
 }
 .card-description{
     font-size: 20px;
     font-family: var(--font-secondary);
     color: #000;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-bottom: 10px;
 }
 
 /* ------------------ Podcast CSS ------------------  */
@@ -149,4 +163,9 @@ body {
 }
 .scaledBtn{
     transform: scale(1.5);
+}
+.PodcastImageFix{
+    width: 100%;
+    height: 320px !important;
+    object-fit: cover;
 }

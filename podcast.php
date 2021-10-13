@@ -87,7 +87,7 @@ $posts = $result['posts'];
                         <a href="<?php echo $key["url"] ?>" target="_blank">
                             <div class="detail-card">
                                 <div class="card-image-block">
-                                    <img id="border" class="imageFix"
+                                    <img id="border" class="PodcastImageFix"
                                          src="<?php echo $key["feature_image"] ?>"
                                          alt=" <?php echo $key["title"] ?>">
                                 </div>
