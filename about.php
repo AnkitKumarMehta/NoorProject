@@ -2,11 +2,11 @@
 <html lang="en">
 
 
-<!-- Mirrored from rainbowit.net/html/inbio/home-consulting-white-version.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Aug 2021 10:57:01 GMT -->
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Home consulting || Inbio - Personal Portfolio Bootstrap Template</title>
+    <title>About | Noor Ali Lalani</title>
     <meta name="robots" content="noindex, follow" />
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -21,142 +21,17 @@
     <link rel="stylesheet" href="assets/css/plugins/feature.css">
     <!-- Style css -->
     <link rel="stylesheet" href="assets/css/style.css">
+
+    <link rel="stylesheet" href="assets/css/landingPage.css">
+    <link rel="stylesheet" href="assets/css/Articles.css">
 </head>
 
 <body class="white-version home-sticky spybody" data-spy="scroll" data-target=".navbar-example2" data-offset="150">
 
-<!-- start Header area -->
-<!-- <div class="d-none d-xl-block header-style-2">
-    <header class="rn-header-area d-flex align-items-start flex-column left-header-style">
-        <div class="logo-area">
-            <a href="index.html">
-                <img src="assets/images/logo/logo-06.png" alt="personal-logo">
-            </a>
-        </div>
-        <nav id="sideNavs" class="mainmenu-nav navbar-example2">
-            <ul class="primary-menu nav nav-pills">
-                <li class="nav-item"><a class="nav-link smoth-animation-two active" href="#home"><i
-                            data-feather="home"></i> Home</a></li>
-                <li class="nav-item"><a class="nav-link smoth-animation-two" href="#features"> <i
-                            data-feather="briefcase"></i>Features</a></li>
-                <li class="nav-item"><a class="nav-link smoth-animation-two" href="#portfolio"><i
-                            data-feather="layers"></i>Portfolio</a></li>
-                <li class="nav-item"><a class="nav-link smoth-animation-two" href="#resume"><i
-                            data-feather="users"></i>Resume</a></li>
-                <li class="nav-item"><a class="nav-link smoth-animation-two" href="#clients"><i
-                            data-feather="user"></i>Clients</a></li>
-                <li class="nav-item"><a class="nav-link smoth-animation-two" href="#pricing"><i
-                            data-feather="shopping-cart"></i>Pricing</a></li>
-                <li class="nav-item"><a class="nav-link smoth-animation-two" href="#blog"><i
-                            data-feather="image"></i>blog</a></li>
-                <li class="nav-item"><a class="nav-link smoth-animation-two" href="#contacts"><i
-                            data-feather="message-circle"></i>Contact</a></li>
-            </ul>
-        </nav>
-        <div class="footer">
-            <div class="social-share-style-1  mt--30">
-                <span class="title">find with me</span>
-                <ul class="social-share d-flex liststyle">
-                    <li class="facebook"><a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-facebook">
-                                <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>
-                            </svg></a>
-                    </li>
-                    <li class="instagram"><a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-instagram">
-                                <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
-                                <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
-                                <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
-                            </svg></a>
-                    </li>
-                    <li class="linkedin"><a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin">
-                                <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z">
-                                </path>
-                                <rect x="2" y="9" width="4" height="12"></rect>
-                                <circle cx="4" cy="4" r="2"></circle>
-                            </svg></a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </header>
-</div> -->
-<!-- start Header area end -->
-
-<!-- Header Mobile Bar  -->
-<!-- <div class="header-style-2 d-block d-xl-none">
-    <div class="row align-items-center">
-        <div class="col-6">
-            <div class="logo">
-                <a href="index.html">
-                    <img src="assets/images/logo/logo-dark.png" alt="Logo">
-                </a>
-            </div>
-        </div>
-        <div class="col-6">
-            <div class="header-right text-right">
-                <div class="hamberger-menu">
-                    <i id="menuBtn" class="feather-menu humberger-menu"></i>
-                </div>
-            </div>
-        </div>
-    </div>
-</div> -->
-<!-- Header Mobile Bar  -->
-
-<!-- Start Popup Mobile Menu  -->
-<!-- <div class="popup-mobile-menu">
-    <div class="inner">
-        <div class="menu-top">
-            <div class="menu-header">
-                <a class="logo" href="index.html">
-                    <img src="assets/images/logo/logos-circle.png" alt="Personal Portfolio">
-                </a>
-                <div class="close-button">
-                    <button class="close-menu-activation close"><i data-feather="x"></i></button>
-                </div>
-            </div>
-            <p class="discription">Inbio is a personal portfolio template. You can customize all.</p>
-        </div>
-        <div class="content">
-            <ul class="primary-menu nav nav-pills">
-                <li class="nav-item"><a class="nav-link smoth-animation-two active" href="#home">Home</a></li>
-                <li class="nav-item"><a class="nav-link smoth-animation-two" href="#features">Features</a></li>
-                <li class="nav-item"><a class="nav-link smoth-animation-two" href="#portfolio">Portfolio</a></li>
-                <li class="nav-item"><a class="nav-link smoth-animation-two" href="#resume">Resume</a></li>
-                <li class="nav-item"><a class="nav-link smoth-animation-two" href="#clients">Clients</a></li>
-                <li class="nav-item"><a class="nav-link smoth-animation-two" href="#pricing">Pricing</a></li>
-                <li class="nav-item"><a class="nav-link smoth-animation-two" href="#blog">blog</a></li>
-                <li class="nav-item"><a class="nav-link smoth-animation-two" href="#contacts">Contact</a></li>
-            </ul>
-
-            <div class="social-share-style-1 mt--40">
-                <span class="title">find with me</span>
-                <ul class="social-share d-flex liststyle">
-                    <li class="facebook"><a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-facebook">
-                                <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>
-                            </svg></a>
-                    </li>
-                    <li class="instagram"><a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-instagram">
-                                <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
-                                <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
-                                <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
-                            </svg></a>
-                    </li>
-                    <li class="linkedin"><a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin">
-                                <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z">
-                                </path>
-                                <rect x="2" y="9" width="4" height="12"></rect>
-                                <circle cx="4" cy="4" r="2"></circle>
-                            </svg></a>
-                    </li>
-                </ul>
-            </div>
-
-        </div>
-    </div>
-</div> -->
-<!-- End Popup Mobile Menu  -->
+<?php require_once "header.php" ?>
 
 <main class="page-wrapper-two">
+
 
     <!-- start slider area -->
     <section id="home" class="slider-style-5 rn-section-gap pb--60 align-items-center with-particles">
