@@ -28,7 +28,9 @@ $response = curl_exec($ch);
 $result = json_decode($response, true);
 curl_close($ch); // Close the connection
 //print_r($result);
+$podcast = $result['posts'];
 $posts = $result['posts'];
+
 
 ?>
 
@@ -88,23 +90,27 @@ $posts = $result['posts'];
                 <h3 class="title-txt">Title</h3>
                 <div class="detail-grid">
 
-                    <?php foreach ($posts as $post => $key) { ?>
-                        <a href="<?php echo $key["url"] ?>" target="_blank">
-                            <div class="detail-card">
-                                <div class="card-image-block">
-                                    <img id="border" class="PodcastImageFix"
-                                         src="<?php echo $key["feature_image"] ?>"
-                                         alt=" <?php echo $key["title"] ?>">
+                    <?php foreach ($posts as $post => $key) {
+                        if ($key["excerpt"] === "Podcast") {
+                            ?>
+
+                            <a href="<?php echo $key["url"] ?>" target="_blank">
+                                <div class="detail-card">
+                                    <div class="card-image-block">
+                                        <img id="border" class="PodcastImageFix"
+                                             src="<?php echo $key["feature_image"] ?>"
+                                             alt=" <?php echo $key["title"] ?>">
+                                    </div>
+                                    <p class="card-title">
+                                        <?php echo $key["title"] ?>
+                                    </p>
+                                    <p class="card-description">
+                                        <?php echo $key["excerpt"] ?>
+                                    </p>
                                 </div>
-                                <p class="card-title">
-                                    <?php echo $key["title"] ?>
-                                </p>
-                                <p class="card-description">
-                                    <?php echo $key["excerpt"] ?>
-                                </p>
-                            </div>
-                        </a>
-                    <?php } ?>
+                            </a>
+                        <?php }
+                    } ?>
 
                 </div>
             </div>
