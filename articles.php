@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="assets/css/plugins/feature.css">
     <link rel="stylesheet" href="assets/css/Articles.css">
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/landingPage.css">
 </head>
 
 <body class="white-version home-sticky spybody" data-spy="scroll" data-target=".navbar-example2" data-offset="150">
@@ -32,6 +33,12 @@ $posts = $result['posts'];
 
 <section id="home" class="slider-style-5 rn-section-gap pb--60 align-items-center with-particles">
     <div id="particles-js"></div>
+
+
+
+    
+
+
     <div class="container">
         <div class="row">
             <div class="col-lg-12">

@@ -178,6 +178,8 @@ a {
 }
 .button-area {
     z-index: 15;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 #particles-js {
     position: absolute;
