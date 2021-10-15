@@ -185,6 +185,11 @@ body {
         flex-direction: column;
     }
 }
+@media screen and (min-width: 1025px) and (max-width: 1200px){
+    .Podcast-Button-Block{
+        flex-direction: column;
+    }
+}
 .scaledBtn{
     transform: scale(1.5);
 }
@@ -196,10 +201,18 @@ body {
 .clr-Black{
     color: black;
 }
+.clr-White{
+    color: White;
+}
+@media screen and (max-width: 991px){
+    .clr-White{
+        color: black;
+    }
+}
 .headerBG{
     background: #ecf0f3;;
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 991px){
     .customNavItems{
         border-bottom: 1px solid rgba(0,0,0,.2);
         box-shadow: 0px 4px 11px rgb(0 0 0 / 4%);

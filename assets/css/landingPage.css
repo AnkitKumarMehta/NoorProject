@@ -154,7 +154,7 @@ a {
     color: var(--color-primary);
     border-radius: 6px;
     background: linear-gradient(145deg, #1e2024, #23272b);
-    box-shadow: var(--shadow-1);
+    /* box-shadow: var(--shadow-1); */
     transition: var(--transition);
 }
 .button-area .rn-btn {
@@ -209,7 +209,7 @@ a {
     z-index: 5;
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 991px){
     .customNavGroup{    
     color: black !important;
     background: white;
