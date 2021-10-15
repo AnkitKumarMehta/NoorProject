@@ -87,7 +87,7 @@ $posts = $result['posts'];
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <h3 class="title-txt">Title</h3>
+                <h3 class="title-txt">Podcast</h3>
                 <div class="detail-grid">
 
                     <?php foreach ($posts as $post => $key) {

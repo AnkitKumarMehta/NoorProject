@@ -5,14 +5,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Podcast</title>
+    <title>Free Resources</title>
     <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/vendor/slick.css">
     <link rel="stylesheet" href="assets/css/vendor/slick-theme.css">
     <link rel="stylesheet" href="assets/css/vendor/aos.css">
     <link rel="stylesheet" href="assets/css/plugins/feature.css">
-    <link rel="stylesheet" href="assets/css/Articles.css">
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/landingPage.css">
+    <link rel="stylesheet" href="assets/css/Articles.css">
+
 </head>
 
 <body class="white-version home-sticky spybody" data-spy="scroll" data-target=".navbar-example2" data-offset="150">
@@ -29,6 +31,9 @@ curl_close($ch); // Close the connection
 $posts = $result['posts'];
 
 ?>
+
+<?php require_once "header.php" ?>
+
 
 <section id="home" class="slider-style-5 rn-section-gap pb--60 align-items-center with-particles">
     <div id="particles-js"></div>
@@ -80,7 +85,7 @@ $posts = $result['posts'];
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <h3 class="title-txt">Title</h3>
+                <h3 class="title-txt">Free Resources</h3>
                 <div class="detail-grid">
 
                     <?php foreach ($posts as $post => $key) {
@@ -112,5 +117,7 @@ $posts = $result['posts'];
 
 
 </body>
+<script src="assets/js/vendor/jquery.js"></script>
+<script src="assets/js/vendor/bootstrap.js"></script>
 
 </html>

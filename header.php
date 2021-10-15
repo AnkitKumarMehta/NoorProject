@@ -1,10 +1,10 @@
 <div class="pos-rel">
-    <nav class="navbar navbar-expand-lg customNav">
+    <nav class="navbar navbar-expand-lg customNav headerBG">
         <a class="navbar-brand" href="#">
             <img src="./assets/images/donut-logo-02.png" alt="logo" class="homeLogo" />
         </a>
         <button
-            class="navbar-toggler toggleIcon"
+            class="navbar-toggler toggleIcon w-auto"
             type="button"
             data-toggle="collapse"
             data-target="#navbarNavAltMarkup"
@@ -21,20 +21,20 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <ul class="navbar-nav ml-auto customNavGroup">
-                <li class="nav-item">
-                    <a class="nav-link nav-link-txt customNavFont clr-Black" href="">About</a>
+                <li class="nav-item mx-3 customNavItems">
+                    <a class="nav-link nav-link-txt customNavFont clr-Black" href="about.php" target="_blank">About</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link nav-link-txt customNavFont clr-Black">Articles</a>
+                <li class="nav-item mx-3 customNavItems">
+                    <a class="nav-link nav-link-txt customNavFont clr-Black" href="articles.php" target="_blank">Articles</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link nav-link-txt customNavFont clr-Black">Podcast</a>
+                <li class="nav-item mx-3 customNavItems">
+                    <a class="nav-link nav-link-txt customNavFont clr-Black" href="podcast.php" target="_blank">Podcast</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link nav-link-txt customNavFont clr-Black">Free Resources</a>
+                <li class="nav-item mx-3 customNavItems">
+                    <a class="nav-link nav-link-txt customNavFont clr-Black" href="freeResources.php" target="_blank">Free Resources</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link nav-link-txt customNavFont clr-Black">Contact</a>
+                <li class="nav-item mx-3 customNavItems">
+                    <a class="nav-link nav-link-txt customNavFont clr-Black" href="about.php#contacts" target="_blank">Contact</a>
                 </li>
             </ul>
         </div>
