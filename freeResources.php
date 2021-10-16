@@ -47,7 +47,7 @@ $posts = $result['posts'];
                              alt="">
                     </div>
                     <h1 class="mt-5">Free resources 🚧</h1>
-                    <h6 class="article-subheading">Here you will find some free resources that is available oline and could come in useful to you as well!</h6>
+                    <h6 class="article-subheading">Here you will find some free resources that is available online and could come in useful to you as well!</h6>
 
                     <!-- <div class="Podcast-Button-Block mt--60">
                         <div class="button-area">

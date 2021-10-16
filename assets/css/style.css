@@ -15464,7 +15464,7 @@ div#featured-project-carousel {
 }
 @media only screen and (max-width: 479px) {
     .client-card {
-        padding: 0 20px;
+        /* padding: 0 20px; */
     }
 }
 .client-card .main-content {
@@ -20030,9 +20030,9 @@ body.white-version {
     width: 35%;
     margin: 0 auto;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1024px) {
     .Button-Block {
-        width: 100%;
+        width: 70%;
     }
 }
 .social-media-icons {
@@ -20057,7 +20057,7 @@ body.white-version {
     height: 715px;
     width: 950px;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1024px) {
     .Story-card {
         width: 100%;
         height: 100%;
@@ -20130,6 +20130,11 @@ body.white-version {
 .mw-80{
     max-width: 80%;
     margin: auto;
+}
+@media screen and (min-width: 768px) and (max-width: 1024px){
+    .mw-80{
+        max-width: 100%;
+    }
 }
 .w-30{
     width: 30% !important;
