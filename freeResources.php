@@ -43,14 +43,13 @@ $posts = $result['posts'];
             <div class="col-lg-12">
                 <div class="banner-inner">
                     <div class="thumbnail gradient-border gradient-animation">
-                        <img id="border" class="gradient-border imageFix" src="assets/images/Podcast.jpg"
+                        <img id="border" class="gradient-border imageFix" src="assets/images/Free-Resources.jpg"
                              alt="">
                     </div>
-                    <h1 class="mt-5">Makers Theory Podcast 🎙</h1>
-                    <h6 class="article-subheading">A place where we talk to founders and innovators to understand their
-                        process and lessons they have learned along the way</h6>
+                    <h1 class="mt-5">Free resources 🚧</h1>
+                    <h6 class="article-subheading">Here you will find some free resources that is available oline and could come in useful to you as well!</h6>
 
-                    <div class="Podcast-Button-Block mt--60">
+                    <!-- <div class="Podcast-Button-Block mt--60">
                         <div class="button-area">
                             <a class="" href=" https://open.spotify.com/show/0rcTNvgsWvhBMpZYAAQnMx" target="_blank">
                                         <span>
@@ -73,7 +72,7 @@ $posts = $result['posts'];
                                         </span>
                             </a>
                         </div>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>

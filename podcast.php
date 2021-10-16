@@ -54,22 +54,21 @@ $posts = $result['posts'];
 
                     <div class="Podcast-Button-Block mt--60">
                         <div class="button-area">
-                            <a class="" href=" https://open.spotify.com/show/0rcTNvgsWvhBMpZYAAQnMx" target="_blank">
+                            <a class="" href=" https://open.spotify.com/show/0rcTNvgsWvhBMpZYAAQnMx">
                                         <span>
                                             <img src="assets/images/Spotify-Podcast.svg" alt="logo" class="scaledBtn"/>
                                         </span>
                             </a>
                         </div>
                         <div class="button-area">
-                            <a class="" href="#contacts">
+                            <a class="" href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81YTk3NGY2NC9wb2RjYXN0L3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwj4_riitrbzAhUAAAAAHQAAAAAQAQ&hl=en-CA">
                                         <span>
                                             <img src="assets/images/Google-Podcast.svg" alt="logo" class="scaledBtn"/>
                                         </span>
                             </a>
                         </div>
                         <div class="button-area">
-                            <a class="" href="https://podcasts.apple.com/in/podcast/makers-theory/id1570984589"
-                               target="_blank">
+                            <a class="" href="https://podcasts.apple.com/in/podcast/makers-theory/id1570984589">
                                         <span>
                                             <img src="assets/images/Apple-Podcast.svg" alt="logo" class="scaledBtn"/>
                                         </span>

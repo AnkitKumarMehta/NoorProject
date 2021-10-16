@@ -20135,4 +20135,9 @@ body.white-version {
     width: 30% !important;
     margin: auto !important;
 }
+@media screen and (max-width: 600px){
+    .w-30{
+        width: auto!important;
+    }
+}
 /*# sourceMappingURL=style.css.map */

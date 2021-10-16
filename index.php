@@ -46,19 +46,19 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <ul class="navbar-nav ml-auto customNavGroup">
                 <li class="nav-item mx-3 customNavItems">
-                    <a class="nav-link nav-link-txt customNavFont clr-White" href="about.php" target="_blank">About</a>
+                    <a class="nav-link nav-link-txt customNavFont clr-White" href="about.php">About</a>
                 </li>
                 <li class="nav-item mx-3 customNavItems">
-                    <a class="nav-link nav-link-txt customNavFont clr-White" href="articles.php" target="_blank">Articles</a>
+                    <a class="nav-link nav-link-txt customNavFont clr-White" href="articles.php">Articles</a>
                 </li>
                 <li class="nav-item mx-3 customNavItems">
-                    <a class="nav-link nav-link-txt customNavFont clr-White" href="podcast.php" target="_blank">Podcast</a>
+                    <a class="nav-link nav-link-txt customNavFont clr-White" href="podcast.php">Podcast</a>
                 </li>
                 <li class="nav-item mx-3 customNavItems">
-                    <a class="nav-link nav-link-txt customNavFont clr-White" href="freeResources.php" target="_blank">Free Resources</a>
+                    <a class="nav-link nav-link-txt customNavFont clr-White" href="freeResources.php">Free Resources</a>
                 </li>
                 <li class="nav-item mx-3 customNavItems">
-                    <a class="nav-link nav-link-txt customNavFont clr-White" href="about.php#contacts" target="_blank">Contact</a>
+                    <a class="nav-link nav-link-txt customNavFont clr-White" href="about.php#contacts">Contact</a>
                 </li>
             </ul>
         </div>
@@ -100,7 +100,7 @@
                         </p>
                         <img
                             src="./assets/images/slide1.gif"
-                            class="giphy-embed gifImage mt-3"
+                            class="giphy-embed gifImage"
                         />
                         <div class="button-area mt-5 mb-5">
                             <a class="rn-btn" href="about.php"><span>Learn More</span></a>
@@ -245,7 +245,7 @@
                             class="giphy-embed gifImage"
                         />
                         <div class="button-area mt-5 mb-5">
-                            <a class="rn-btn" href="#contacts"><span>Learn More</span></a>
+                            <a class="rn-btn" href="https://www.imdb.com/title/tt0386676/"><span>Learn More</span></a>
                         </div>
                     </div>
                 </div>
@@ -264,7 +264,7 @@
                             class="giphy-embed gifImage"
                         />
                         <div class="button-area mt-5 mb-5">
-                            <a class="rn-btn" href="#contacts"><span>Learn More</span></a>
+                            <a class="rn-btn" href="about.php#contacts"><span>Learn More</span></a>
                         </div>
                     </div>
                 </div>
@@ -299,7 +299,7 @@
                 <div class="button-area ml-2 mr-2">
                     <a
                         class="rn-btn p-2"
-                        href="https://www.instagram.com/nooralilalani/"
+                        href="https://www.instagram.com/nooralilalani_/"
                         target="_blank"
                     >
                         <i data-feather="instagram"></i>
@@ -308,7 +308,7 @@
                 <div class="button-area ml-2 mr-2">
                     <a
                         class="rn-btn p-2"
-                        href="https://twitter.com/noor_lalani"
+                        href="https://twitter.com/nooralilalani_"
                         target="_blank"
                     >
                         <i data-feather="twitter"></i>

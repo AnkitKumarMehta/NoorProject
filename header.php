@@ -1,6 +1,6 @@
 <div class="pos-rel">
     <nav class="navbar navbar-expand-lg customNav headerBG">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="index.php">
             <img src="./assets/images/donut-logo-02.png" alt="logo" class="homeLogo" />
         </a>
         <button
@@ -22,19 +22,19 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <ul class="navbar-nav ml-auto customNavGroup">
                 <li class="nav-item mx-3 customNavItems">
-                    <a class="nav-link nav-link-txt customNavFont clr-Black" href="about.php" target="_blank">About</a>
+                    <a class="nav-link nav-link-txt customNavFont clr-Black" href="about.php">About</a>
                 </li>
                 <li class="nav-item mx-3 customNavItems">
-                    <a class="nav-link nav-link-txt customNavFont clr-Black" href="articles.php" target="_blank">Articles</a>
+                    <a class="nav-link nav-link-txt customNavFont clr-Black" href="articles.php">Articles</a>
                 </li>
                 <li class="nav-item mx-3 customNavItems">
-                    <a class="nav-link nav-link-txt customNavFont clr-Black" href="podcast.php" target="_blank">Podcast</a>
+                    <a class="nav-link nav-link-txt customNavFont clr-Black" href="podcast.php">Podcast</a>
                 </li>
                 <li class="nav-item mx-3 customNavItems">
-                    <a class="nav-link nav-link-txt customNavFont clr-Black" href="freeResources.php" target="_blank">Free Resources</a>
+                    <a class="nav-link nav-link-txt customNavFont clr-Black" href="freeResources.php">Free Resources</a>
                 </li>
                 <li class="nav-item mx-3 customNavItems">
-                    <a class="nav-link nav-link-txt customNavFont clr-Black" href="about.php#contacts" target="_blank">Contact</a>
+                    <a class="nav-link nav-link-txt customNavFont clr-Black" href="about.php#contacts">Contact</a>
                 </li>
             </ul>
         </div>

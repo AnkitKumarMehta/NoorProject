@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Home consulting || Inbio - Personal Portfolio Bootstrap Template</title>
+    <title>About</title>
     <meta name="robots" content="noindex, follow" />
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -21,9 +21,15 @@
     <link rel="stylesheet" href="assets/css/plugins/feature.css">
     <!-- Style css -->
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/landingPage.css">
+    <link rel="stylesheet" href="assets/css/Articles.css">
 </head>
 
 <body class="white-version home-sticky spybody" data-spy="scroll" data-target=".navbar-example2" data-offset="150">
+
+
+<?php require_once "header.php" ?>
+
 
 <!-- start Header area -->
 <!-- <div class="d-none d-xl-block header-style-2">
@@ -1162,13 +1168,13 @@
                                 </a>
                             </div>
                             <div class="button-area">
-                                <a class="rn-btn" href="https://twitter.com/noor_lalani" target="_blank">
+                                <a class="rn-btn" href="https://twitter.com/nooralilalani_" target="_blank">
                                     <i data-feather="twitter"></i>
                                     <span class="ml-3">Twitter</span>
                                 </a>
                             </div>
                             <div class="button-area">
-                                <a class="rn-btn" href="https://www.instagram.com/nooralilalani/" target="_blank">
+                                <a class="rn-btn" href="https://www.instagram.com/nooralilalani_/" target="_blank">
                                     <i data-feather="instagram"></i>
                                     <span class="ml-3">Instagram</span>
                                 </a>
