@@ -153,7 +153,7 @@
             <div class="carousel-item">
                 <div class="fourth-slide">
                     <div class="text-center mt--35">
-                        <h5 class="main-title clrWhite">MBA Studet 🎓</h5>
+                        <h5 class="main-title clrWhite">MBA Student 🎓</h5>
                         <p class="subheading clrWhite w-60">
                             I’m a part of the MBA class of 2023 at <a href="https://www.mcmaster.ca/" target="_blank" class="homepageLink">McMaster University</a> in
                             Hamilton, ON
@@ -195,7 +195,7 @@
                     <div class="text-center mt--35">
                         <h5 class="main-title clrWhite">StudyTact 🧰</h5>
                         <p class="subheading clrWhite w-60">
-                            I founded Studytact in 2015 a peer-to-peer learning app to
+                            I founded StudyTact in 2015 a peer-to-peer learning app to
                             connect university students across the USA.
                         </p>
 

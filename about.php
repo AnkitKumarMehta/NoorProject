@@ -57,7 +57,7 @@
                         <!-- type headline end -->
                         <div class="Button-Block">
                             <div class="button-area">
-                                <a class="rn-btn" href="#contacts"><span>Resume</span></a>
+                                <a class="rn-btn" href="assets/resume.pdf" target="_blank"><span>Resume</span></a>
                             </div>
                             <div class="button-area">
                                 <a class="rn-btn" href="#contacts"><span>Let's Connect</span></a>
