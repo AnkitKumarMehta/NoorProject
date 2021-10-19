@@ -204,7 +204,7 @@
                             class="giphy-embed gifImage"
                         />
                         <div class="button-area mt-5 mb-5">
-                            <a class="rn-btn" href="#contacts"><span>Learn More</span></a>
+                            <a class="rn-btn" href="about.php"><span>Learn More</span></a>
                         </div>
                     </div>
                 </div>
@@ -245,7 +245,7 @@
                             class="giphy-embed gifImage"
                         />
                         <div class="button-area mt-5 mb-5">
-                            <a class="rn-btn" href="https://www.imdb.com/title/tt0386676/"><span>Learn More</span></a>
+                            <a class="rn-btn" href="https://www.imdb.com/title/tt0386676/" target="_blank"><span>Learn More</span></a>
                         </div>
                     </div>
                 </div>
